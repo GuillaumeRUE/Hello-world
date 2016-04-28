@@ -5,4 +5,4 @@ I study math and informatique at "Universite de Lorraine" in Nancy
 
 I discovered Gitub few days ago and now I would to learn how to use it properly to make a game project with some friends!!
 
-Bye!
+Bye!!!
